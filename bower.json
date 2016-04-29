@@ -1,0 +1,9 @@
+{
+  "name": "angular-adblock-detector",
+  "description": "Simply detect the use of AdBlock using AngularJS promises",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "angular": ">=1.4.0"
+  }
+}

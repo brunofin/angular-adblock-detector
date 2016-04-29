@@ -65,8 +65,4 @@ Otherwise, a cup of coffee to keep me going is just great!
 
 I accept cryptocurrency donations via the following addresses:
 
-BTC: <todo>
-
-LTC: <todo>
-
-DOGUE: srsly?
+BTC: 1CQ2qrLY1YidxWKhE3s1o2bPmmQWfXNCHD

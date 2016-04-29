@@ -11,20 +11,24 @@ They are evil. That's why.
 
 ## Installation
 
-Add the lib to your `bower.json`: `'angular-adblock-detector'`.
+### bower:
+
+`bower install angular-adblock-detector`
 
 ## Supported settings
 
 It's been tested to work on the following browsers:
 
 * Chrome
+* Firefox
+* Vivaldi
 
 On the following operating systems:
 
 * Windows
 * Linux
 
-And is able to detect:
+And is able to detect (but not distinguish):
 
 * AdBlock
 * AdBlock Plus

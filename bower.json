@@ -1,8 +1,15 @@
 {
   "name": "angular-adblock-detector",
   "description": "Simply detect the use of AdBlock using AngularJS promises",
-  "version": "1.0.0",
   "private": false,
+  "main": "angular-adblock-detector.js",
+  "authors": [
+    "Bruno Finger <bruno.k.finger@gmail.com> (http://brunofinger.xyz)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/brunofin/angular-adblock-detector.git"
+  },
   "dependencies": {
     "angular": ">=1.4.0"
   }

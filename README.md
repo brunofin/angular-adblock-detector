@@ -63,6 +63,4 @@ If you want to show support, but it's weekends, a beer or two is enough :)
 
 Otherwise, a cup of coffee to keep me going is just great!
 
-I accept cryptocurrency donations via the following addresses:
-
-BTC: 1CQ2qrLY1YidxWKhE3s1o2bPmmQWfXNCHD
+https://transferwise.com/pay/c340e27a-8aaa-4307-8a0a-326f42c5b2c2

@@ -1,7 +1,4 @@
 # angular-adblock-detector
-By Bruno Finger -- bruno.k.finger@gmail.com
-
-Please don't send flame e-mails. Write your own lib to block mine, or update your code if you're a major Ad Blocker developer, so I can update mine, and we will keep things fun this way.
 
 ## Why block ad blockers?
 

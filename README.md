@@ -30,7 +30,7 @@ And is able to detect (but not distinguish):
 * AdBlock
 * AdBlock Plus
 * Privacy Badger
-* hosts file (boy you're in trouble now if you're blocking ads using your hosts file)
+* hosts file
 
 Other settings haven't been properly tested but should work as well.
 
